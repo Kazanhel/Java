@@ -1,4 +1,4 @@
-# Lenguaje-de-Marcas
+# Ejercicios Java
 ## Ejercicios de Lenguaje Java ##
 En este repositorio voy a ir subiendo los **ejercicios** que hagamos en la asignatura de **Programación** a lo largo del curso con Java.
 
